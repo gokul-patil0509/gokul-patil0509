@@ -7,7 +7,3 @@
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 🎯 Goal (2021): **Contribute** openly to **Data Science and Machine Learning community**.
 
-## Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconc/open-iconic/master/svg/globe.svg"/>][website]
-<br />
